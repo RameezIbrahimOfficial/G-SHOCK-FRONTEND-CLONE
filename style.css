@@ -8,11 +8,6 @@
      color: white; 
  } 
 
- .nav-center{
-   padding-bottom: 40px;
- }
-
-
  .new-product{
 
     width: 100%; 
@@ -110,7 +105,7 @@ footer{
 }
 li{
    font-size: smaller;
-   margin-top: 10%;
+   /* margin-top: 10%; */
    cursor: pointer;
 }
 .Footer-Icon{
