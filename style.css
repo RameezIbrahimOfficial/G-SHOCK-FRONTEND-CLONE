@@ -1,7 +1,18 @@
+@import url(https://db.onlinewebfonts.com/c/e934b630586ca9b7fe66c99ac1592f4a?family=DIN-Regular);
+
+*{
+   font-family: "DIN-Regular";
+}
 
  .nav-s{ 
      color: white; 
  } 
+
+ .nav-center{
+   padding-bottom: 40px;
+ }
+
+
  .new-product{
 
     width: 100%; 
